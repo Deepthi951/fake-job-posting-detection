@@ -1,0 +1,31 @@
+COPYRIGHT NOTICE AND PROPRIETARY LICENSE
+========================================
+
+Project  : Fake Job Posting Prediction
+Author   : Deepthi V
+USN       : 4NI23IS049
+Year     : 2026
+
+All Rights Reserved.
+
+This project and all associated source code, documentation, and files
+are the intellectual property of the author. Unauthorized copying,
+reproduction, distribution, modification, or use of this work — in
+whole or in part — without the express written permission of the author
+is strictly prohibited.
+
+PERMITTED:
+  - The designated instructor/evaluator may view and assess this work
+    solely for academic evaluation purposes.
+
+NOT PERMITTED:
+  - Copying, sharing, or submitting any part of this work as your own
+  - Redistributing this code in any form
+  - Using this code in any commercial or personal project without
+    explicit written consent from the author
+
+This work was created independently by the author. Any similarity to
+other works is coincidental. File creation timestamps and version
+history serve as proof of original authorship.
+
+For permissions, contact the author directly.
